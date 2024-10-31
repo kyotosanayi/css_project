@@ -1,0 +1,18 @@
+#goit2{
+    color: aqua;
+}
+
+.goit2:hover {
+    background-color: beige;
+    font-size: x-large;
+}
+
+.test h1 {
+    background-color: burlywood;
+    color: cornflowerblue;
+}
+
+div #arac li {
+    font-size: 25px;
+
+}
